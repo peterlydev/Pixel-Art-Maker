@@ -41,3 +41,13 @@ td {
 input[type=number] {
     width: 6em;
 }
+
+form#sizePicker{
+    font-family: 'Exo 2';
+    margin-top: 2rem;
+}
+
+input{
+    border-radius: 3px;
+    border: none;
+}
